@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.vvp
+build/generated16/
+build/gowin_work_wide16/
+build/*.generated.tcl
+.DS_Store
